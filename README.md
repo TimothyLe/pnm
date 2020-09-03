@@ -1,6 +1,7 @@
 ![Pi-Mosquitto](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Felementztechblog.files.wordpress.com%2F2017%2F12%2Fpi-plus-mosquitto.jpg)
 # Pi-NUT-MQTT
-Pi-NUT-MQTT server for UPS state notifications through SMS/email
+Pi-NUT-MQTT server for UPS state notifications through SMS/email  
+*Passwords are fake dummies*
 
 ## Pi connectivity to Devices via MQTT Broker
 ![MQTT-Broker](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.slidesharecdn.com%2Fnodemcuxraspberrypi2xmqtt-150821024325-lva1-app6892%2F95%2Fnode-mcu-x-raspberrypi2-x-mqtt-2-638.jpg)
